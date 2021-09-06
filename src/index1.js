@@ -5,5 +5,5 @@ $(function() {
     // j基数行为红色
     $('li:odd').css('background-color', 'red')
         // j偶数行为红色
-    $('li:even').css('background-color', 'skyblue')
+    $('li:even').css('background-color', 'pink')
 })
